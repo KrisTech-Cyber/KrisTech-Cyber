@@ -29,37 +29,7 @@ My long-term goal is to use AI and cybersecurity together to build safer systems
 
 ---
 
-## 🛠️ Projects So Far
-- 🎮 *The Amazing Digital Circus Quiz* (Python project)  
-- 🔓 File Traversal vulnerability simulation  
-- 🔓 Broken Access Control experiment  
-- 🧪 Various small cybersecurity + scripting experiments  
-
-*(Still learning — but actively building as I go.)*
-
----
-
-## 🎯 Goals
-- Become confident in penetration testing fundamentals  
-- Strengthen Python for automation and security tools  
-- Move into AI Security / AI safety research  
-- Contribute to open-source security projects  
-- Build real-world defensive + offensive security projects  
-
----
-
-## 🤝 Collaboration
-- 👯 Open to simple Python projects  
-- 💬 Always happy to learn from others and gain experience  
-
----
-
 ## ⚡ Fun Stuff
 - 💬 Ask me about anime or cybersecurity paths (been deep in both 😄)  
 - 😄 Pronouns: she/her  
 - 🍍 Fun fact: I actually like pineapple on pizza!  
-
----
-
-## 📫 Connect With Me
-- LinkedIn: www.linkedin.com/in/kristenjsaad
