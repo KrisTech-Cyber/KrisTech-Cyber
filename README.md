@@ -1,8 +1,5 @@
 # 👋 Hey there, I'm Kris!
 
-🔐 Aspiring Cybersecurity Analyst | 🤖 AI Security Enthusiast | 🐍 Python Learner  
-
----
 ## 🌱 About Me
 I'm currently learning Python and exploring the intersection of cybersecurity and artificial intelligence.
 
